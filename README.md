@@ -29,6 +29,9 @@ To use this project, you need to provide values for the variables defined in the
 
 Please review the Terraform documentation and Azure Pipelines documentation for more information on how to use Terraform and Azure Pipelines.
 
+## Prerequisite
+https://learn.microsoft.com/en-us/azure/defender-for-cloud/iac-template-mapping
+
 ## Note
 Always review the Terraform configurations and Azure Pipelines before running them, especially when they affect real resources in an Azure subscription. Ensure it does comply with yor organization’s policies and guidelines. If you’re unsure, consult with RBA Platform engineering DevOps Team. 
 
